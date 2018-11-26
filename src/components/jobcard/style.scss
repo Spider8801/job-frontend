@@ -1,0 +1,28 @@
+.jb-card {
+	display: flex;
+	flex-direction: column;
+	.jb-card-top {
+		display: flex;
+		justify-content: space-between;
+		.jb-card-head-start {
+			display: flex;
+			flex-direction: row;
+			justify-content: flex-start;
+			align-items: baseline;
+			h3 {
+				margin-left: 1em;
+				margin-right: 1em;
+				span {
+					padding-bottom: 3px;
+				}
+			}
+			label {
+				margin-left: 1em;
+			}
+		}
+		.jb-card-head-end {
+			display: flex;
+			justify-content: flex-end;
+		}
+	}
+}
