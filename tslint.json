@@ -1,0 +1,25 @@
+{
+	"defaultSeverity": "error",
+	"extends": ["tslint:recommended", "tslint-react", "tslint-blueprint"],
+	"jsRules": {},
+	"rules": {
+		"member-access": [true, "no-public", "check-accessor"],
+		"only-arrow-functions": true,
+		"no-empty": true,
+		"prefer-for-of": true,
+		"no-debugger": true,
+		"no-construct": true,
+		"no-console": [true, "log", "error"],
+		"no-duplicate-super": true,
+		"no-duplicate-switch-case": true,
+		"no-duplicate-variable": [true, "check-parameters"],
+		"no-dynamic-delete": true,
+		"prefer-template": true,
+		"prefer-method-signature": true,
+		"no-unnecessary-callback-wrapper": true,
+		"arrow-return-shorthand": true,
+		"quotemark": [true, "single", "jsx-double"],
+		"indent": [true, "tabs", 2]
+	},
+	"rulesDirectory": []
+}
