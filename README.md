@@ -1,5 +1,8 @@
 # this is a job portal website
 
+[![Storybook](https://github.com/storybooks/press/blob/master/badges/storybook.svg)](http://localhost:9000/stories)
+[![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.png?v=101)](https://github.com/ellerbrock/typescript-badges/)
+
 **here we operate from two ends one from the job provider and one from the job seeker end.**
 
 # step0:
@@ -36,3 +39,7 @@
 **Company 'A' selected few candidates and now they want to hire the best**
 
 - we can provide them group video call for interview \* we can provide realtime coding environment for coding along with score and ranking
+
+# Development by
+
+**nirajgeorgian**
