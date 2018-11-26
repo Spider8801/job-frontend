@@ -32,7 +32,7 @@ class JobCard extends Component<any, any> {
 				<Divider />
 				<div className="jb-card-bottom">
 					<div className="jb-card-left">
-						<img src="https://picsum.photos/200" alt="company-name" title="comapny-name" />
+						<img src="https://picsum.photos/180" alt="company-name" title="comapny-name" />
 						<div className="jb-card-comapny" />
 					</div>
 					<div className="jb-card-right">
